@@ -9,10 +9,12 @@
 <body>
     <h1>Carpincho/Capibara</h1>
     <br>
-    <h3>Que es el Capibara?</h3>
+    <h2>Que es el Capibara?</h2>
     <p>El capibara, chigüiro o carpincho es una especie de roedor de la familia de los cávidos,<br>nativa de Sudamérica. 
         Es el roedor viviente de mayor tamaño y peso del mundo.<br>El otro miembro existente de ese género es el capibara menor.
     </p>
     <img src="capibarajpg.jpg" alt="chuy">
+    <h2>GIF capibara</h2>
+    <img src= "capibarogif.gif" alt="joselito">
 </body>
 </html>
