@@ -2,12 +2,12 @@ h1{
     color: deeppink;
 } 
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(255, 216, 158);
 }
 div{
     background-color: darkslategrey;
 }
-h3{
+h2{
     color: blueviolet;
 }
 .center{
